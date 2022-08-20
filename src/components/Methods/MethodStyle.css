@@ -1,6 +1,6 @@
-.containerx
+.containerMethod
 {
-    width: 33%;
+    width: 101%;
     display: inline-block;
 }
 
@@ -23,6 +23,7 @@
     justify-content: center;
     opacity: .6;
     width: 31%;
+    padding: 4px;
 }
 .Logos:hover
 {
@@ -38,7 +39,7 @@
     opacity: .6;
     align-items: center;
     width: 45%;
-    padding: 0 11px;
+    padding: 2px 11px;
 
 }
 .Logos-Delivery:hover

@@ -3,7 +3,7 @@ import "./MethodStyle.css"
 
 export default function Methods() {
     return (
-        <div className='containerx'>
+        <div className='containerMethod'>
             <div className="PaymentMethod">
                 Payment Method
             </div>

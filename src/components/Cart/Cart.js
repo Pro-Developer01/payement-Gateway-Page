@@ -3,7 +3,7 @@ import "./CartStyle.css";
 
 export default function Cart() {
   return (
-    <div className='containerx'>
+    <div className='containerCart'>
         <div className="title">
             Your cart
         </div>

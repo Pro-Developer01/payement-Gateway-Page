@@ -2,10 +2,8 @@ import React from 'react'
 import "./ShippingStyle.css";
 export default function Shipping() {
   return (
-    <div className='containerx'>
-            <div className="PaymentMethod">
-               <h4>Shipping and Payment</h4>
-            </div>
+    <div className='containerShipping'>
+            
             <div className="content-row-1">
                 <div  >
                   <button type="button" className="buttons" >LOG IN</button>
