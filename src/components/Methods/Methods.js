@@ -23,7 +23,7 @@ export default function Methods() {
                   <img src="https://1000logos.net/wp-content/uploads/2020/11/Discover-Logo.jpg" height={"40px"}  alt="PaymentLogos" />
                 </div>
                 <div className="Logos">
-                  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf4FRpH5lvshZDAZqBJCmrIymqE3L6deIR5OicdyXL&s" height={"40px"}  alt="PaymentLogos" />
+                  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Stripe_Logo%2C_revised_2016.svg/2560px-Stripe_Logo%2C_revised_2016.svg.png" height={"40px"}  alt="PaymentLogos" />
                 </div>
                 <div className="Logos">
                   <img src="https://i0.wp.com/financebuddha.com/blog/wp-content/uploads/2016/12/23155635/UPI1.jpg?fit=945%2C709&ssl=1" height={"40px"}  alt="PaymentLogos" />

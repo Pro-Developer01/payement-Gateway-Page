@@ -1,14 +1,18 @@
 import React from 'react'
 import "./NavbarStyle.css"
+// import { Link } from "react-router-dom";
 
 export default function Navbar() {
   return (
     // <nav className="navbar navbar-expand-lg bg-light">
       <div className="containerNav">
-
       <div className="logoNav">
         <img src="https://www.logolynx.com/images/logolynx/90/90cdeb260df361a39d97540d9c75a814.png" height={"36px"} alt="" />
-        <span style={{fontSize:"22px"}}>E-Shop</span>
+        {/* <Link to="/"> */}
+        <span style={{fontSize:"22px"}}> <span style={{
+          color:"orange"
+        }}>E-</span>Shop</span>
+        {/* </Link> */}
       </div>
       <div className="MiddleNav">
         <a href="/"><span>Men</span></a>
