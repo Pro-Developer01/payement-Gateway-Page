@@ -44,6 +44,8 @@ export default function Shipping() {
                         <option value="Poland">Poland</option>
                         <option value="Poland">India</option>
                         <option value="Poland">America</option>
+                        <option value="Poland">China</option>
+                        <option value="Poland">Russia</option>
                         </select>   
                 </div>
                </form>
