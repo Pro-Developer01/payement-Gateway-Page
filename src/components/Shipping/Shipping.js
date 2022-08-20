@@ -1,15 +1,18 @@
 import React from 'react'
 import "./ShippingStyle.css";
+import { Link } from "react-router-dom";
 export default function Shipping() {
   return (
     <div className='containerShipping'>
             
             <div className="content-row-1">
                 <div  >
-                  <button type="button" className="buttons" >LOG IN</button>
+                 <Link to="/Login"> <button type="button" className="buttons" >LOG IN</button></Link>
                 </div>
                 <div >
+                    <Link to="/SignUp">
                   <button type="button" className="buttons" style={{background:"white",color:"black", border:"solid 1px grey"}}>SIGN UP</button>
+                  </Link>
                 </div>  
             </div>
             <div className="ShippingInfo">
@@ -38,9 +41,9 @@ export default function Shipping() {
                 <div className="row1">
                     <input type="number" placeholder='Phone number'/>
                     <select name="country" id="country" className='country'>
-                        <option value="Poland">poland</option>
-                        <option value="Poland">poland</option>
-                        <option value="Poland">poland</option>
+                        <option value="Poland">Poland</option>
+                        <option value="Poland">India</option>
+                        <option value="Poland">America</option>
                         </select>   
                 </div>
                </form>

@@ -1,0 +1,12 @@
+.containerForm{
+    width: 30%;
+    margin-top: 40px;
+}
+.formsElements input
+{
+    margin-top: 0;
+}
+label
+{
+    margin-top: 20px;
+}
