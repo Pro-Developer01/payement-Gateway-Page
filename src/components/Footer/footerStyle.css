@@ -1,0 +1,33 @@
+.containerFooter
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 202px;
+}
+.BackButton
+{
+    margin: 0px 18px;
+}
+.FooterLast
+{
+    display: flex;
+    justify-content: left;
+    margin: 0px 10px;
+}
+.buttonsFoo
+{
+    border: solid 0px;
+    background: #4cdd4c;
+    color: white;
+    opacity: .7;
+    width: 228px;
+    height: 49px;
+    border-radius: 33px;
+    margin-right: 26px;
+
+
+}
+.buttonsFoo:hover{
+    opacity: 1;
+}
