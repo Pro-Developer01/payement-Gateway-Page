@@ -1,0 +1,27 @@
+.containerNav
+{
+    display: flex;
+    justify-content: space-between;
+    height: 49px;
+    border-bottom: solid 1px #d9d6d6;
+    align-items: center;
+}
+.logoNav
+{
+    display: flex;
+    justify-content: center;
+    width: 12%;
+}
+
+.MiddleNav
+{
+    display: flex;
+    justify-content: space-around;
+    width: 25%;
+}
+.lastNav
+{
+    display: flex;
+    justify-content: space-around;
+    width: 10%;
+}

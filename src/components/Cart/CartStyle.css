@@ -1,0 +1,42 @@
+.containerCart
+{
+    width: auto;
+}
+
+.title
+{
+    font-size: 21px;
+    margin: 16px;
+}
+.item1
+{
+    margin: 8px 0px;
+    display: flex;
+    justify-content: space-between;
+}
+.Product-desc
+{
+    display: flex;
+    flex-direction: column;
+    width: 166px;
+}
+.content
+{
+    margin: 10px;
+}
+.TotalCost
+{
+    margin-top: 2rem;
+    display: flex;
+    justify-content: space-around;
+    background-color: #dee2e7;
+    border-radius: 30px;
+    padding: 14px;
+}
+.FreeShipping
+{
+    margin-top: 4rem;
+    margin-left: 1rem;
+    display: flex;
+    justify-content: space-around;
+}

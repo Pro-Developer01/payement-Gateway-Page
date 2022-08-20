@@ -1,0 +1,49 @@
+.containerMethod
+{
+    width: 101%;
+    display: inline-block;
+}
+
+.PaymentMethod
+{
+    font-size: 21px;
+    margin: 16px;
+}
+.content-row-1
+{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 6px 0;
+}
+.Logos
+{
+    border: solid 1px grey;
+    border-radius: 33px;
+    display: flex;
+    justify-content: center;
+    opacity: .6;
+    width: 31%;
+    padding: 4px;
+}
+.Logos:hover
+{
+    opacity: 1;
+    border-color: orange;
+}
+.Logos-Delivery
+{
+    border: solid 1px grey;
+    border-radius: 33px;
+    display: flex;
+    justify-content: space-around;
+    opacity: .6;
+    align-items: center;
+    width: 45%;
+    padding: 2px 11px;
+
+}
+.Logos-Delivery:hover
+{
+    opacity: 1;
+    border-color: orange;
+}
