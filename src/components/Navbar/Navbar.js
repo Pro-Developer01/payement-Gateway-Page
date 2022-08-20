@@ -11,9 +11,12 @@ export default function Navbar() {
         <span style={{fontSize:"22px"}}>E-Shop</span>
       </div>
       <div className="MiddleNav">
-        <span>Men</span>
-        <span>Women</span>
-        <span>Child</span>
+        <a href="/"><span>Men</span></a>
+        
+        <a href="/"><span>Child</span></a>
+        
+        <a href="/"><span>Women</span></a>
+        
       </div>
       <div className="lastNav">
         <img src="https://cdn2.iconfinder.com/data/icons/ios-7-icons/50/search-512.png" height={"24px"} alt="" />
