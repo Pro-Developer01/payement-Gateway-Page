@@ -1,0 +1,14 @@
+.containerBread
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 74px;
+    padding: 0 15px;
+}
+.lastbreadcum
+{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
