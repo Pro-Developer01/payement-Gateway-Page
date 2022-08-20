@@ -7,7 +7,7 @@ import Breadcum from '../components/Breadcum/Breadcum';
 
 
 
-import Footer from '../components/Footer/Footer';
+import Footer from '../components/footer/footer';
 import Shipping from '../components/Shipping/Shipping';
 
 
