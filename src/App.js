@@ -5,6 +5,7 @@ import Cart from './components/Cart/Cart';
 import Methods from './components/Methods/Methods';
 import Navbar from './components/Navbar/Navbar';
 import Shipping from './components/Shipping/Shipping';
+import Footer from './components/Footer/Footer';
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
     <div className="gridItem2"><Methods/></div>
     <div className="gridItem3"><Cart/></div>
    </div>
+   <Footer/>
    
    
  
