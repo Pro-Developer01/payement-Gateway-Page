@@ -1,0 +1,74 @@
+.containerx
+{
+    width: 44%;
+    display: inline-block;
+}
+
+.PaymentMethod
+{
+    font-size: 21px;
+    margin: 16px;
+}
+.ShippingInfo
+{
+    font-size: 21px;
+    margin: 16px;
+    margin-top: 45px;
+}
+.content-row-1
+{
+    display: flex;
+    justify-content: left;
+    margin: 9px 10px;
+}
+
+.buttons
+{
+    border: solid 0px;
+    background: #4cdd4c;
+    color: white;
+    opacity: .7;
+    width: 128px;
+    height: 49px;
+    border-radius: 33px;
+    margin-right: 8px;
+    margin-top: 25px;
+
+}
+.buttons:hover{
+    opacity: 1;
+}
+.FormFields
+{
+    display: flex;
+    justify-content: left;
+    margin: 9px 10px;
+}
+.row1
+{
+    width: max-content;
+}
+input
+{
+    border: solid 1px grey;
+    color: #3e3d3d;
+    opacity: .7;
+    height: 49px;
+    border-radius: 33px;
+    margin-right: 8px;
+    margin-top: 25px;
+    width: 18rem;
+    padding: 22px;
+}
+.country
+{
+    border: solid 1px grey;
+    color: #3e3d3d;
+    opacity: .7;
+    height: 49px;
+    border-radius: 33px;
+    margin-right: 8px;
+    margin-top: 25px;
+    width: 18rem;
+    padding: 22px;
+}
